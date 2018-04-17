@@ -1,0 +1,15 @@
+c:\users\едиген\source\repos\Shops\Shops\bin\Debug\Shops.exe.config
+c:\users\едиген\source\repos\Shops\Shops\bin\Debug\Shops.exe
+c:\users\едиген\source\repos\Shops\Shops\bin\Debug\Shops.pdb
+c:\users\едиген\source\repos\Shops\Shops\obj\Debug\Shops.csprojResolveAssemblyReference.cache
+c:\users\едиген\source\repos\Shops\Shops\obj\Debug\MainWindow.g.cs
+c:\users\едиген\source\repos\Shops\Shops\obj\Debug\App.g.cs
+c:\users\едиген\source\repos\Shops\Shops\obj\Debug\Shops_MarkupCompile.cache
+c:\users\едиген\source\repos\Shops\Shops\obj\Debug\Shops_MarkupCompile.lref
+c:\users\едиген\source\repos\Shops\Shops\obj\Debug\MainWindow.baml
+c:\users\едиген\source\repos\Shops\Shops\obj\Debug\Shops.g.resources
+c:\users\едиген\source\repos\Shops\Shops\obj\Debug\Shops.Properties.Resources.resources
+c:\users\едиген\source\repos\Shops\Shops\obj\Debug\Shops.csproj.GenerateResource.cache
+c:\users\едиген\source\repos\Shops\Shops\obj\Debug\Shops.csproj.CoreCompileInputs.cache
+c:\users\едиген\source\repos\Shops\Shops\obj\Debug\Shops.exe
+c:\users\едиген\source\repos\Shops\Shops\obj\Debug\Shops.pdb
